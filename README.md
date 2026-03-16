@@ -220,4 +220,4 @@ When plotted against n², both curves form a near-perfect straight line — conf
 
 ## GenAI Use Statement
 
-Claude (Anthropic, claude.ai, Claude Sonnet 4.6) was used on February 12, 2026, for preliminary project development including reference identification and dataset exploration. Claude was additionally used on March 16, 2026, to assist with code review, test suite development, biological experiment design, README writing, and project documentation as part of the learning and documentation process.
+Claude (Anthropic, claude.ai, Claude Sonnet 4.6) was used on February 12, 2026, for preliminary project development including reference identification and dataset exploration.
